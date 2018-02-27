@@ -1,2 +1,0 @@
-# CultureCCC
-Eshop Clothes
