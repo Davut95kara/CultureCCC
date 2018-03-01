@@ -1,10 +1,10 @@
 #banner {
-	text-align: center;
+	text-align: center; 
 	background-size: cover;
-	padding: 100px;
+	padding: 200px;
 	color: white;
 	font-family: Impact;
-	font-size: 100px;
+	font-size: 300px;
 	background: #1E1E1E;
 	margin:0px 0px 0em 0;
 }
