@@ -10,6 +10,17 @@
 	margin:0px 0px 0em 0;
 }
 
+#bannerturk {
+	text-align: center;
+	background-image: url(https://github.com/Davut95kara/CultureCCC/blob/master/Images/IstanbulVoyage.jpg?raw=true);
+	background-size: cover;
+	background-position: center;
+	padding: 100px;
+	color: black;
+	font-family: Impact;
+	font-size: 200px;
+	margin:0px 0px 0em 0;
+
 #footer {
   padding: 10px;
   background: rgb(30, 30, 30);
